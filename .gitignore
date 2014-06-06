@@ -1,0 +1,10 @@
+*.cywrk.*
+*.cyprj.*
+*.cyfit
+*.cycdx
+*.rpt
+*.svd
+*_timing.html
+codegentemp
+Generated_Source
+CortexM0
